@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+Latest Stable Release - Download Here - <a href="http://sourceforge.net/projects/ripwp/files/ripwp_1.0.zip/download">ripWP 1.0 </a>
+
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
